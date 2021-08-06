@@ -1,0 +1,1 @@
+alert('WELCOME TO ZADDITHECREATOR CACULATOR: feel free to caculate :))')
